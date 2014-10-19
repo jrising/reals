@@ -1,0 +1,45 @@
+8
+
+dir
+1810
+file:///usr/local/svn-repos/includes/trunk/reals/amg
+file:///usr/local/svn-repos
+
+
+
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+
+
+svn:special svn:externals svn:needs-lock
+
+ttfs
+dir
+
+buttons.php
+file
+
+
+
+
+2007-09-12T14:59:51.000000Z
+a0a57ca50a4727425c87afdbf3ce40ba
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+has-props
+
+amg.php
+file
+
+
+
+
+2007-09-12T14:59:50.000000Z
+06cfc253f3ebd3d0197398bbb83b13d2
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+has-props
+

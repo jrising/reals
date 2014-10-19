@@ -1,0 +1,67 @@
+8
+
+dir
+1810
+file:///usr/local/svn-repos/includes/trunk/reals/errors
+file:///usr/local/svn-repos
+
+
+
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+
+
+svn:special svn:externals svn:needs-lock
+
+base.php
+file
+
+
+
+
+2007-09-12T03:49:12.000000Z
+be8dac46f99495dd0529f1dc91314412
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+has-props
+
+classes.php
+file
+
+
+
+
+2007-09-12T03:48:20.000000Z
+8617c53ab366d86677abeeae4a739977
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+has-props
+
+output.php
+file
+
+
+
+
+2007-09-12T03:52:39.000000Z
+a4702fcfc78ee8f4332c30d7cdc54aca
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+has-props
+
+tests.php
+file
+
+
+
+
+2007-09-12T04:10:59.000000Z
+363cde507dd50ef42bb3da529188ff17
+2007-09-13T05:19:06.370192Z
+1752
+jrising
+
